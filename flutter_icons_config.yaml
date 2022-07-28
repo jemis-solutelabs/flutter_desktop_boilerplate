@@ -1,0 +1,19 @@
+flutter_icons:
+  image_path: "assets/images/logo.png"
+  android: true # can specify file name here e.g. "ic_launcher"
+  ios: true # can specify file name here e.g. "My-Launcher-Icon"
+  web: true
+  image_path_web:  "assets/images/logo.png"
+  background_color_web: "#hexcolor"
+  theme_color_web: "#hexcolor"
+  # if we add support for linux
+  linux: true
+  image_path_linux:  "assets/images/logo.png"
+  #if we add support for windows
+  windows: true
+  image_path_windows:  "assets/images/logo.png"
+  # ... and so on with other platforms
+
+  macos: true
+
+  image_path_macos:  "assets/images/logo.png"
